@@ -43,7 +43,7 @@
 
 ## 安装运行
 ```shell
-$ git clone https://github.com/Virkano/netmusic.git
+$ git clone https://github.com/Virkano/nicemusic.git
 $ cd nicemusic
 $ npm install
 $ npm run serve
